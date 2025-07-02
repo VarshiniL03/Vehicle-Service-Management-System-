@@ -2,26 +2,26 @@ Vehicle-Service-Management-System-
 This is a PHP-based web application designed to streamline and manage vehicle service operations. The project includes functionalities such as user interaction, service tracking, and admin control.
 
 📁 Project Structure
-*index.php – Landing page for the system
-*home.php – Main dashboard/homepage
-*about.php – Details about the service
-*config.php – Database connection setup
-*initialize.php – Initializes required services
-*404.html – Custom error page
-*readme.txt – Project instructions
-*.sql/.html – Database schema dump
+* index.php – Landing page for the system
+* home.php – Main dashboard/homepage
+* about.php – Details about the service
+* config.php – Database connection setup
+* initialize.php – Initializes required services
+* 404.html – Custom error page
+* readme.txt – Project instructions
+* .sql/.html – Database schema dump
 
 🛠 Features
-*User-friendly interface for customers and admins
-*Dynamic service tracking system
-*Secure and modular PHP backend
-*Includes custom error handling (404 page)
+* User-friendly interface for customers and admins
+* Dynamic service tracking system
+* Secure and modular PHP backend
+* Includes custom error handling (404 page)
 
 💻 Technologies Used
-*PHP
-*MySQL
-*HTML/CSS
-*Apache Server
+* PHP
+* MySQL
+* HTML/CSS
+* Apache Server
 
 🧰 Setup Instructions
 * Clone or download this repository.
